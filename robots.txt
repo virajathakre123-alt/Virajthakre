@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://virajathakre123-alt.github.io/sitemap.xml
